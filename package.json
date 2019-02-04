@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-regex-replace-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "regex-replace-dynamic-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sj-freitas/dynamic-regex-replace-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sj-freitas/dynamic-regex-replace-loader/issues"
+  },
+  "homepage": "https://github.com/sj-freitas/dynamic-regex-replace-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
